@@ -4,10 +4,11 @@ This project contains two tasks.Task1 is an implementation of LSB method on Steg
 \
 More details are written in the write up. \
 \
-Group member:
-Solar Shao
-Chen Xu
-Zihao Zhang
+Group member: \
+Solar Shao \
+Chen Xu \
+Zihao Zhang \
+Zhiyu Cheng \
 
 Note: In order to run task1, you need to first download 'image1.jpg' and 'image2.jpg' from repository, then upload these two images when required in the colab code.
 In order to run task2, you need to first download 'kaggle.json' file and then upload the file to colab file(see the button squared in red in the screenshot below) so that the kaggle dataset will be automatically load into colab. \
